@@ -334,7 +334,7 @@ namespace Lib_SMS
         }
 
         /// <summary>
-        /// Получение цены SMS
+        /// Получение цены SMS//
         /// </summary>
         /// <param name="number">Номер получателя</param>
         /// <param name="message">Текст сообщения</param>
